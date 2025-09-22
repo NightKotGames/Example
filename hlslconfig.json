@@ -1,0 +1,13 @@
+{
+  "includePaths": [
+    "Shaders",
+    "Shaders/Private",
+    "Shaders/Public",
+    "C:/Program Files/Epic Games/UE_5.4/Engine/Shaders"
+  ],
+  "defines": {
+    "PLATFORM_WINDOWS": "1",
+    "COMPILER_HLSL": "1"
+  },
+  "extensions": [ ".usf", ".ush", ".hlsl" ]
+}

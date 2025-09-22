@@ -1,0 +1,8 @@
+{
+  "root": "/Game/Envarment/Base/Materials/",
+  "mf_uv": "MF_UVBlock_PBR",
+  "mf_rvt": "MF_RVT_Read",
+  "master": "M_PBR_Master",
+  "mi_base": "MI_PBR_Base",
+  "rvt": "T_VT_PBR_Master"
+}

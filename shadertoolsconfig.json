@@ -1,0 +1,18 @@
+{
+  "hlsl.preprocessorDefinitions": {
+    "PLATFORM_WINDOWS": "1",
+    "COMPILER_HLSL": "1"
+  },
+  "hlsl.additionalIncludeDirectories": [
+    "Shaders",
+    "Shaders/Private",
+    "Shaders/Public",
+    "D:/Unreal/UE_5.4/Engine/Shaders",
+    "D:/Unreal/UE_5.4/Engine/Shaders/Private",
+    "D:/Unreal/UE_5.4/Engine/Shaders/Public"
+  ],
+  "hlsl.virtualDirectoryMappings": {
+    "/Engine": "D:/Unreal/UE_5.4/Engine/Shaders",
+    "/Project": "Shaders"
+  }
+}
